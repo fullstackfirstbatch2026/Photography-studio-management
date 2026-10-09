@@ -1,0 +1,6 @@
+photography-frontend/node_modules/
+photography-frontend/dist/
+photography-studio/target/
+.env
+.env.*
+!.env.example
